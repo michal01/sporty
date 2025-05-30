@@ -22,14 +22,14 @@ The whole thing took over 2 hours.
 - Vuetify
 - Axios
 
-### Installation
+## Installation
 
 Install packages using command:
 ```bash
 npm install
 ```
 
-#### Starting the Development Server
+## Starting the Development Server
 
 To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
 
@@ -37,7 +37,7 @@ To start the development server with hot-reload, run the following command. The 
 npm run dev
 ```
 
-##### Building for Production
+## Building for Production
 
 To build your project for production, use:
 
